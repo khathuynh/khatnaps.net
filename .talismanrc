@@ -1,3 +1,5 @@
 fileignoreconfig:
-- filename: posts/memoir/index.html
-  checksum: e970209a93c707473d33f28cd15b0add3f98458f7fcf253021a116b640f11195
+- filename: posts/im-a-stranger-here/index.html
+  checksum: 5067e1966dc4a77de62795d195e053fc323194526bcae8521e084fd500265c2c
+- filename: posts/college-major/index.html
+  checksum: 2ac409c540c6efd7345e2b78c363d8788577a9ef0deee4da8a694e5dff8f2bad

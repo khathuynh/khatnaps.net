@@ -3,8 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://khatnaps.net/posts/im-a-stranger-here/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://khatnaps.net/</loc>
-    <lastmod>2018-11-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://khatnaps.net/posts/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://khatnaps.net/posts/glitch-pop/</loc>
+    <lastmod>2018-12-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -13,8 +28,8 @@
   </url>
   
   <url>
-    <loc>http://khatnaps.net/posts/</loc>
-    <lastmod>2018-11-20T00:00:00+00:00</lastmod>
+    <loc>http://khatnaps.net/posts/college-major/</loc>
+    <lastmod>2018-03-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -58,11 +73,19 @@
   </url>
   
   <url>
+    <loc>http://khatnaps.net/goodies/goodies/</loc>
+  </url>
+  
+  <url>
     <loc>http://khatnaps.net/about/</loc>
   </url>
   
   <url>
     <loc>http://khatnaps.net/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://khatnaps.net/goodies/</loc>
   </url>
   
   <url>
