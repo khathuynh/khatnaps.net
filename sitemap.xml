@@ -73,10 +73,6 @@
   </url>
   
   <url>
-    <loc>http://khatnaps.net/goodies/goodies/</loc>
-  </url>
-  
-  <url>
     <loc>http://khatnaps.net/about/</loc>
   </url>
   
@@ -85,11 +81,11 @@
   </url>
   
   <url>
-    <loc>http://khatnaps.net/goodies/</loc>
+    <loc>http://khatnaps.net/reading-list/</loc>
   </url>
   
   <url>
-    <loc>http://khatnaps.net/reading-list/</loc>
+    <loc>http://khatnaps.net/goodies/</loc>
   </url>
   
 </urlset>

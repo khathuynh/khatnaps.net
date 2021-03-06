@@ -1,5 +1,5 @@
 html {overflow-y: scroll}
-body{max-width:800px;margin:40px auto;padding:0 10px;font:14px/1.5 monospace;color:#444}h1,h2,h3{line-height:1.2}@media (prefers-color-scheme: dark){body{color:white;background:#444}a:link{color:#5bf}a:visited{color:#ccf}}
+body{max-width:800px;margin:40px auto;padding:0 10px;font:14px/1.5 monospace;color:#444}h1,h2,h3{line-height:1.2}@media (prefers-color-scheme: dark){body{color:white;background:#444}}
 p > code{color: #FFFFFF; background:#000000; padding:2px}
 pre{color: #FFFFFF; background:#000000; padding:24px; overflow-x: auto}
 article{padding:10px 0}
@@ -8,3 +8,20 @@ img {display: block; max-width: 100%; height: auto;}
 figcaption {color: #888; font: 12px/1.5 monospace; text-align: center;}
 figure {margin: auto}
 .pagination {padding-top: 30px; padding-bottom: 20px}
+a:-webkit-any-link {
+    color: #6a5acd;
+    cursor: pointer;
+    text-decoration: underline;
+}
+a:hover{
+    color: #444;
+}
+.header {
+     color: #444 !important;
+}
+.footer {
+    color: #444 !important;
+}
+.tags {
+    background-color: #E6E6FA;
+}
