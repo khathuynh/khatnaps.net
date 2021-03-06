@@ -14,14 +14,28 @@ a:-webkit-any-link {
     text-decoration: underline;
 }
 a:hover{
-    color: #444;
+    color: #69359c;
 }
-.header {
-     color: #444 !important;
-}
-.footer {
+.bars {
     color: #444 !important;
+}
+.bars:hover {
+    color: black !important;
 }
 .tags {
     background-color: #E6E6FA;
+}
+.tags:hover{
+    background-color: #cec8ef;
+}
+
+@media only screen and (max-width: 600px) {
+    nav {
+        padding-top: 40px;
+    }
+}
+@media only screen and (min-width: 600px) {
+    nav {
+        padding-top: 30px;
+    }
 }

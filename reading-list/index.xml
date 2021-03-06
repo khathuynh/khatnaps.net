@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reading list on K.T.H.</title>
-    <link>http://khatnaps.net/reading-list/</link>
+    <link>https://khatnaps.net/reading-list/</link>
     <description>Recent content in Reading list on K.T.H.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Kha Huynh</copyright><atom:link href="http://khatnaps.net/reading-list/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Kha Huynh</copyright><atom:link href="https://khatnaps.net/reading-list/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
