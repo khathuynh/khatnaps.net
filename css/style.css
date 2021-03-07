@@ -39,3 +39,7 @@ a:hover{
         padding-top: 30px;
     }
 }
+.summary > p {
+    margin-block-start: .25em !important;
+    margin-block-end: .25em !important;
+}
