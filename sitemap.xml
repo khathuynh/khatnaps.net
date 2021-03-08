@@ -3,27 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://khatnaps.net/posts/eat-poop/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://khatnaps.net/tags/ego/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://khatnaps.net/tags/faith/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://khatnaps.net/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://khatnaps.net/posts/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://khatnaps.net/tags/science/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://khatnaps.net/tags/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://khatnaps.net/tags/writing/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://khatnaps.net/posts/im-a-stranger-here/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://khatnaps.net/</loc>
+    <loc>https://khatnaps.net/tags/marginal/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://khatnaps.net/posts/</loc>
+    <loc>https://khatnaps.net/tags/mixed-media/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://khatnaps.net/tags/third-culture-kid/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://khatnaps.net/tags/california/</loc>
-    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://khatnaps.net/tags/faith/</loc>
     <lastmod>2019-01-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,17 +83,7 @@
   </url>
   
   <url>
-    <loc>https://khatnaps.net/tags/</loc>
-    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://khatnaps.net/tags/technology/</loc>
-    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://khatnaps.net/tags/writing/</loc>
+    <loc>https://khatnaps.net/tags/tech/</loc>
     <lastmod>2019-01-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,12 +93,32 @@
   </url>
   
   <url>
+    <loc>https://khatnaps.net/tags/american-dream/</loc>
+    <lastmod>2018-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://khatnaps.net/posts/memoir/</loc>
     <lastmod>2018-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://khatnaps.net/tags/somebodys-daughter/</loc>
+    <lastmod>2018-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://khatnaps.net/posts/college-major/</loc>
+    <lastmod>2018-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://khatnaps.net/tags/liberal-arts/</loc>
+    <lastmod>2018-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://khatnaps.net/tags/public-transport/</loc>
     <lastmod>2018-03-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,22 +138,7 @@
   </url>
   
   <url>
-    <loc>https://khatnaps.net/tags/tag-1/</loc>
-    <lastmod>2015-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://khatnaps.net/tags/tag-2/</loc>
-    <lastmod>2015-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://khatnaps.net/tags/poem/</loc>
-    <lastmod>2014-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://khatnaps.net/tags/running/</loc>
     <lastmod>2014-10-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -118,17 +153,12 @@
   </url>
   
   <url>
-    <loc>https://khatnaps.net/tags/tag2/</loc>
+    <loc>https://khatnaps.net/tags/higher-calling/</loc>
     <lastmod>2014-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://khatnaps.net/posts/getting-angry-on-skype/</loc>
-    <lastmod>2013-11-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://khatnaps.net/tags/third-culture-kid/</loc>
     <lastmod>2013-11-07T00:00:00+00:00</lastmod>
   </url>
   

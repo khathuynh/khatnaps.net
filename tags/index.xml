@@ -7,22 +7,76 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Kha Huynh</copyright>
-    <lastBuildDate>Mon, 28 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://khatnaps.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://khatnaps.net/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>california</title>
-      <link>https://khatnaps.net/tags/california/</link>
-      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      <title>ego</title>
+      <link>https://khatnaps.net/tags/ego/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://khatnaps.net/tags/california/</guid>
+      <guid>https://khatnaps.net/tags/ego/</guid>
       <description></description>
     </item>
     
     <item>
       <title>faith</title>
       <link>https://khatnaps.net/tags/faith/</link>
-      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://khatnaps.net/tags/faith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>science</title>
+      <link>https://khatnaps.net/tags/science/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://khatnaps.net/tags/science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>writing</title>
+      <link>https://khatnaps.net/tags/writing/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://khatnaps.net/tags/writing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>marginal</title>
+      <link>https://khatnaps.net/tags/marginal/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://khatnaps.net/tags/marginal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mixed media</title>
+      <link>https://khatnaps.net/tags/mixed-media/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://khatnaps.net/tags/mixed-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>third culture kid</title>
+      <link>https://khatnaps.net/tags/third-culture-kid/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://khatnaps.net/tags/third-culture-kid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>california</title>
+      <link>https://khatnaps.net/tags/california/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://khatnaps.net/tags/california/</guid>
       <description></description>
     </item>
     
@@ -45,38 +99,47 @@
     </item>
     
     <item>
-      <title>technology</title>
-      <link>https://khatnaps.net/tags/technology/</link>
+      <title>tech</title>
+      <link>https://khatnaps.net/tags/tech/</link>
       <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://khatnaps.net/tags/technology/</guid>
+      <guid>https://khatnaps.net/tags/tech/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>writing</title>
-      <link>https://khatnaps.net/tags/writing/</link>
-      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      <title>american dream</title>
+      <link>https://khatnaps.net/tags/american-dream/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://khatnaps.net/tags/writing/</guid>
+      <guid>https://khatnaps.net/tags/american-dream/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>tag 1</title>
-      <link>https://khatnaps.net/tags/tag-1/</link>
-      <pubDate>Fri, 25 Sep 2015 00:00:00 +0000</pubDate>
+      <title>somebodys daughter</title>
+      <link>https://khatnaps.net/tags/somebodys-daughter/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://khatnaps.net/tags/tag-1/</guid>
+      <guid>https://khatnaps.net/tags/somebodys-daughter/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>tag 2</title>
-      <link>https://khatnaps.net/tags/tag-2/</link>
-      <pubDate>Fri, 25 Sep 2015 00:00:00 +0000</pubDate>
+      <title>liberal arts</title>
+      <link>https://khatnaps.net/tags/liberal-arts/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://khatnaps.net/tags/tag-2/</guid>
+      <guid>https://khatnaps.net/tags/liberal-arts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>public transport</title>
+      <link>https://khatnaps.net/tags/public-transport/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://khatnaps.net/tags/public-transport/</guid>
       <description></description>
     </item>
     
@@ -90,29 +153,11 @@
     </item>
     
     <item>
-      <title>running</title>
-      <link>https://khatnaps.net/tags/running/</link>
-      <pubDate>Tue, 14 Oct 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://khatnaps.net/tags/running/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tag2</title>
-      <link>https://khatnaps.net/tags/tag2/</link>
+      <title>higher calling</title>
+      <link>https://khatnaps.net/tags/higher-calling/</link>
       <pubDate>Thu, 25 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://khatnaps.net/tags/tag2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>third culture kid</title>
-      <link>https://khatnaps.net/tags/third-culture-kid/</link>
-      <pubDate>Thu, 07 Nov 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://khatnaps.net/tags/third-culture-kid/</guid>
+      <guid>https://khatnaps.net/tags/higher-calling/</guid>
       <description></description>
     </item>
     
