@@ -1,5 +1,3 @@
 fileignoreconfig:
-- filename: posts/im-a-stranger-here/index.html
-  checksum: 5067e1966dc4a77de62795d195e053fc323194526bcae8521e084fd500265c2c
-- filename: posts/college-major/index.html
-  checksum: 2ac409c540c6efd7345e2b78c363d8788577a9ef0deee4da8a694e5dff8f2bad
+- filename: posts/duo-is-crying/index.html
+  checksum: d98ff919eb3ab2bde18260fa4b58766ae7228ee1be2a15c0504cc5682b5fe30e
